@@ -1,0 +1,5 @@
+break phase_6
+break *(0x08048c3b)
+break *(0x08048c53)
+break *(0x08048ccc)
+break *(0x08048cce)
